@@ -1,0 +1,13 @@
+{
+  "name": "todo-mobx",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "mobx": "4.9.2",
+    "mobx-react": "5.4.3",
+    "react": "16.8.0",
+    "react-dom": "16.8.0"
+  }
+}
