@@ -5,10 +5,6 @@ import { Item } from "./Item.js";
 
 const { ul } = style;
 
-//@flow
-let x: number = "k";
-console.log(x);
-
 @observer
 export class List extends React.Component {
   // условный рендер по актив кнопке
